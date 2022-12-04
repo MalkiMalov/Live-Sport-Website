@@ -1,7 +1,9 @@
 # Live-Sport-Website
+
 This is my Live Sports website built with Flask.
 
 #Get started:
+
 In the project root, go to src folder, and then create a venv
 Run on terminal source venb/bin/activate On Linux OR venv\Scripts\activate.bat on Windows
 Once activated, install Flask: pip install flask
