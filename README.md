@@ -2,7 +2,7 @@
 
 This is my Live Sports website built with Flask.
 
-#Get started:
+# Get started:
 
 In the project root, go to src folder, and then create a venv
 Run on terminal source venb/bin/activate On Linux OR venv\Scripts\activate.bat on Windows
